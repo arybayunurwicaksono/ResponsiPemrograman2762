@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ResponsiPemrograman2762\ResponsiPemrograman2762\obj\Debug\netcoreapp3.1\ResponsiPemrograman2762.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ResponsiPemrograman2762\ResponsiPemrograman2762\obj\Debug\netcoreapp3.1\ResponsiPemrograman2762.AssemblyInfo.cs
+C:\Users\User\source\repos\ResponsiPemrograman2762\ResponsiPemrograman2762\obj\Debug\netcoreapp3.1\ResponsiPemrograman2762.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ResponsiPemrograman2762\ResponsiPemrograman2762\bin\Debug\netcoreapp3.1\ResponsiPemrograman2762.exe
+C:\Users\User\source\repos\ResponsiPemrograman2762\ResponsiPemrograman2762\bin\Debug\netcoreapp3.1\ResponsiPemrograman2762.deps.json
+C:\Users\User\source\repos\ResponsiPemrograman2762\ResponsiPemrograman2762\bin\Debug\netcoreapp3.1\ResponsiPemrograman2762.runtimeconfig.json
+C:\Users\User\source\repos\ResponsiPemrograman2762\ResponsiPemrograman2762\bin\Debug\netcoreapp3.1\ResponsiPemrograman2762.runtimeconfig.dev.json
+C:\Users\User\source\repos\ResponsiPemrograman2762\ResponsiPemrograman2762\bin\Debug\netcoreapp3.1\ResponsiPemrograman2762.dll
+C:\Users\User\source\repos\ResponsiPemrograman2762\ResponsiPemrograman2762\bin\Debug\netcoreapp3.1\ResponsiPemrograman2762.pdb
+C:\Users\User\source\repos\ResponsiPemrograman2762\ResponsiPemrograman2762\obj\Debug\netcoreapp3.1\ResponsiPemrograman2762.dll
+C:\Users\User\source\repos\ResponsiPemrograman2762\ResponsiPemrograman2762\obj\Debug\netcoreapp3.1\ResponsiPemrograman2762.pdb
