@@ -7,8 +7,12 @@ namespace ResponsiPemrograman2762
         static void Main(string[] args)
         {
 
-            Karyawan orang = new Karyawan(19112762, 2000000, "Ary");
-            Karyawan orang2 = new Karyawan(19110000, 3000000, "Bayu");
+            Console.WriteLine("Nama \t: Ary Bayu Nurwicaksono");
+            Console.WriteLine("NIM \t: 19.11.2762");
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Karyawan orang = new Karyawan(19112762, 2000000, "Ary Bayu Nurwicaksono");
+            Karyawan orang2 = new Karyawan(19110000, 3000000, "Nurwicaksono Bayu Ary");
 
             Console.WriteLine("No. \t Nik/Nama \t\t Gaji Bulanan ");
             Console.WriteLine("1. \t {0} {1} \t\t {2}", orang.Nik, orang.Nama, orang.GajiBulanan);
